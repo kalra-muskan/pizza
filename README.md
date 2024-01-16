@@ -1,4 +1,4 @@
-# Pizza Sales 
+# Outlet Performance Analysis  
 This is an Exploratory Data Analysis on the sales data of a fictional Pizza Outlet. The analysis has been done on the sales data composed of *48621 Entries* containing data of a total of *21350 orders*. The data was collected by tracking down the customers' orders for the period of a year starting from *January 2015* to *December 2015*. 
 
 *Aim:* The project aims to provide insights into the business performance and customer behavior of the pizza chain, and to identify key trends and opportunities for improvement. ![introduction](https://github.com/kalra-muskan/pizza/assets/142618498/f2be37b1-4f50-437e-9b1d-98e4e415d832)
